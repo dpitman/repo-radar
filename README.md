@@ -1,10 +1,11 @@
 # git repo-radar
+
 This script checks the status of git repositories and prints a report with repository details.
 
 ---
 
-> <details><summary>:warning: DISCLAIMER!</summary># USE AT OWN RISK!</details>
-> If there is an easier way, please let me know. 
+> <details><summary>:warning: DISCLAIMER!</summary>:boom: USE AT OWN RISK :exclamation:</details>
+> If there is an easier way, please let me know.
 
 ---
 
@@ -23,7 +24,7 @@ Pushing changes to a remote repository at the end of the day is also a good prac
 
 ---
 
-| Version | Comments |
-| --- | --- |
-| [BASH](./bash/README.md)  | My original script will probably mostly stay the same. |
-| [PYTHON](./python/README.md)  | Decided to create a python version and add some extra features... `coming soon`! :mailbox: |
+| Version                      | Comments                                                                                   |
+| ---------------------------- | ------------------------------------------------------------------------------------------ |
+| [BASH](./bash/README.md)     | My original script will probably mostly stay the same.                                     |
+| [PYTHON](./python/README.md) | Decided to create a python version and add some extra features... `coming soon`! :mailbox: |
