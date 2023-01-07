@@ -3,7 +3,7 @@ This script checks the status of git repositories and prints a report with repos
 
 ---
 
-> <details><summary>:warning: DISCLAIMER!</summary>USE AT OWN RISK!</details>
+> <details><summary>:warning: DISCLAIMER!</summary># USE AT OWN RISK!</details>
 > If there is an easier way, please let me know. 
 
 ---
