@@ -41,3 +41,16 @@ Path                              Untracked    Stashed   Name
 | ---------------------------- | ------------------------------------------------------------------------------------------ |
 | [BASH](./bash/README.md)     | My original script will probably mostly stay the same.                                     |
 | [PYTHON](./python/README.md) | Decided to create a python version and add some extra features... `coming soon`! :mailbox: |
+
+---
+
+## ToDo:
+- thinking of adding all checks. Something like:
+```bash
+modified=$(git diff --name-status)
+staged=$(git diff --cached --name-only)
+stashed=$(git stash list)
+local_head=$(git rev-parse HEAD)
+remote_head=$(git ls-remote origin HEAD)
+```
+- 
