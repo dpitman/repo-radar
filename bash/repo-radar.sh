@@ -3,7 +3,6 @@
 # Set the directory to the current working directory
 dir=$(pwd)
 home=$HOME
-echo $home
 
 # Find all of the git repositories in the given directory
 repos=$(find "$dir" -type d -name ".git")
